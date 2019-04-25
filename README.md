@@ -19,7 +19,7 @@ Create a bitlink:
 
 Output:
 
-![](https://s6.nofilecdn.io/g/25EeaxxH6zIjMNy6GJdxQ6EkBTBtoVCnX6bBdkoCDDcBWolVIDWBhKNqsjAVJupJ/p/Untitled.png)
+![](https://i.ibb.co/PNLsTG3/Untitled.png)
 
 
 Display number of clicks:
