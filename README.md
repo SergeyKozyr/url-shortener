@@ -1,8 +1,8 @@
-#Bitly url shorterer
+# Bitly url shorterer
 
 Python script that either creates a bitlink of an url, or outputs total number of clicks of a bitlink , depending on user input.
 
-##How to install
+## How to install
 
 You need to get generic access token . To do so create an account at [bitly.com](https://bitly.com) , then click [generate token](https://bitly.com/a/oauth_apps)
 
@@ -18,9 +18,8 @@ Creating a bitlink
 
 	python main.py https://google.com
 
-	 	
 ![](https://nofile.io/f/6ykhvo3QSoH/Untitled.png)
 
 
-##Project Goals
+## Project Goals
 The code is written for educational purposes on online-course for web-developers dvmn.org.
