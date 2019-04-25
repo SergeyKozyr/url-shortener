@@ -10,16 +10,26 @@ Token is a string that looks like this : 17c09e20ad155405123ac1977542fecf00231da
 
 Python3 should be already installed. Then use pip (or pip3, if there is a conflict with Python2) to install dependencies:
 
-
 	pip install -r requirements.txt
 
-## An exapmle 
-Creating a bitlink
+## Usage example
+Create a bitlink:
 
-	python main.py https://google.com
+    python main.py https://google.com
 
-![](https://nofile.io/f/6ykhvo3QSoH/Untitled.png)
+Output:
+
+![](https://s6.nofilecdn.io/g/25EeaxxH6zIjMNy6GJdxQ6EkBTBtoVCnX6bBdkoCDDcBWolVIDWBhKNqsjAVJupJ/p/Untitled.png)
+
+
+Display number of clicks:
+
+	python main.py bit.ly/2CFL4kU
+
+Output:
+
+![](https://i.ibb.co/CtRYzvB/ww.png)
 
 
 ## Project Goals
-The code is written for educational purposes on online-course for web-developers dvmn.org.
+The code is written for educational purposes on online-course for web-developers dvmn.org.s
