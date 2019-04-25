@@ -5,6 +5,7 @@ Python script that either creates a bitlink of an url, or outputs total number o
 ## How to install
 
 You need to get generic access token . To do so create an account at [bitly.com](https://bitly.com) , then click [generate token](https://bitly.com/a/oauth_apps)
+
 Token is a string that looks like this : 17c09e20ad155405123ac1977542fecf00231da7
 
 Python3 should be already installed. Then use pip (or pip3, if there is a conflict with Python2) to install dependencies:
